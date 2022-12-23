@@ -9,7 +9,7 @@ Watch Full Tutorial and Your Comments really means a lot! ❤
 
 [🔴 Youtube Tutorial Video](https://youtu.be/7Cb19XSJBXs)
 
-[🔵 Live Project URL](https://t-musicplayer.netlify.app/)
+[🔵 Live Project URL](https://teenageprogrammer.github.io/Animated-Background-CSS/)
 
 If you want any answers related this project, You can Join My New Discord Server!
 Welcome!
